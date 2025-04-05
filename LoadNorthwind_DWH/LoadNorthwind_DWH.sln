@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "LoadNorthwind_DWH", "LoadNorthwind_DWH.dtproj", "{0CAD63F6-774A-B92B-D309-D6CB48C510FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAD63F6-774A-B92B-D309-D6CB48C510FD}.Development|Default.ActiveCfg = Development
+		{0CAD63F6-774A-B92B-D309-D6CB48C510FD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709403BF-6655-4069-A33E-C42FA05DCF16}
+	EndGlobalSection
+EndGlobal
